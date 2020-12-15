@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HKAliPay</string>
+    <string name="pay_with_alipay_hk">HK 支付宝支付 Demo</string>
+    <string name="pay_money">输入支付金额(单位分)</string>
+    <string name="demo_info_text">重要说明: \n\n本DEMO展示了在调用聚合支付接口后获取到的参数解析，并如何调用支付宝APP，如有问题可及时沟通。</string>
+    <string name="get_pay_info_data">第一步获取支付参数</string>
+    <string name="alipay_hk">第二步支付宝支付</string>
+</resources>
